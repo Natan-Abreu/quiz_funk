@@ -5,5 +5,6 @@
 
  Codificado no ano de 2019, por pura diversão!
 
+## Abaixo a tela inicial da aplicação Quiz Funk:
 
 ![Tela inicial da aplicação Quiz Funk - 2019](https://github.com/Natan-Abreu/quiz_funk/blob/master/telaInicalQuizFunk.PNG)
