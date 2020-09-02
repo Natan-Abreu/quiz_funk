@@ -6,4 +6,4 @@
  Codificado no ano de 2019, por pura diversão!
 
 
-![Tela inicial da aplicação Quiz Funk - 2019](https://github.com/Natan-Abreu/quiz_funk/blob/master/quiz_funk.csproj)
+![Tela inicial da aplicação Quiz Funk - 2019](https://github.com/Natan-Abreu/quiz_funk/blob/master/telaInicalQuizFunk.PNG)
